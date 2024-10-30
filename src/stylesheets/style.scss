@@ -1,0 +1,23 @@
+@import "./common.scss";
+
+// fixes some issues
+.bokez-block{
+    max-width: 100% !important;
+    font-size: 16px;
+}
+
+@import "../blocks/blockquote/style/style.scss";
+@import "../blocks/button/style/style.scss";
+@import "../blocks/cover/style/style.scss";
+@import "../blocks/divider/style/style.scss";
+@import "../blocks/faq/style/style.scss";
+@import "../blocks/notification/style/style.scss";
+@import "../blocks/posts-grid/style/style.scss";
+@import "../blocks/pricing-table/style/style.scss";
+@import "../blocks/profile/style/style.scss";
+@import "../blocks/progress-bar/style/style.scss";
+@import "../blocks/section/style/style.scss";
+@import "../blocks/separator-heading/style/style.scss";
+@import "../blocks/share/style/style.scss";
+@import "../blocks/testimonial/style/style.scss";
+@import "../blocks/video-popup/style/style.scss";
